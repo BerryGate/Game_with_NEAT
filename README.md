@@ -1,2 +1,2 @@
 # Game_with_NEAT
-This program performs Extended Essay allocation for any schools following the IB curriculum. 
+This program uses a genetic algorithm called NEAT (Neuroevolution of Augmenting Topologies) to train an agent to play a game.
