@@ -3,5 +3,5 @@ This program uses a genetic algorithm called NEAT (Neuroevolution of Augmenting 
 
 The training.py file showcases the training and evolution process.
 The trained.py file showcases the trained agent playing the game. 
-neat_config_training.text are the NEAT algorithms specifications/parameters for training.
-neat_config_trained.txt are the NEAT algorithms specifications/parameters for the trained agent.
+The neat_config_training.text file is the NEAT algorithms specifications/parameters for training.
+The neat_config_trained.txt is the NEAT algorithms specifications/parameters for the trained agent.
